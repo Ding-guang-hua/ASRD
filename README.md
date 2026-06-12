@@ -98,8 +98,7 @@ python main.py --data aminer --gcn_layer 7 --margin 0.05 --cl_weight 0.1 --latdi
 |   ├── encoder.py
 |   └── params.py
 ├── ASRD.png
-├── performance1.png
-├── performance2.png
+├── performance.png
 └── README
 ```
 
